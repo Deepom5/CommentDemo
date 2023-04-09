@@ -1,6 +1,6 @@
 {
   "homepage": "http://deepom5.github.io/CommentDemo",
-  "name": "interactive-comments-section",
+  "name": "comment-demo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
